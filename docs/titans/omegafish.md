@@ -31,6 +31,7 @@
 * **Lightning Shot:** Fires a bolt that deals 50 damage + Fire/Burning.
 * **Tail Smash:** Heavy strike dealing 400 damage.
 * **Body Slam:** Massive impact dealing 500 damage.
+* **Anti-Titan Attack:** Applies only to titans, deals around 500 damage
 
 !!! warning "Enraged Phase"
     Once the Omegafish drops below **1/4 health**, it will begin causing **random explosions** at the player's feet. Stay mobile to avoid instant death.
@@ -55,6 +56,11 @@ The Omegafish is never alone. It will constantly summon its minions:
 ---
 
 ## 🎒 Strategy & Loot
+!!! danger "Equipment Check"
+    Do **not** fight this Titan in Diamond Armor. Even as the "weakest" Titan, its Body Slam (500 damage) and other attacks will ignore most vanilla protections. You MUST use Harcadium as it is the minimum requirement of fighting all Titans
+
+---
+
 
 ### How to Defeat
 1. **The Stun:** You cannot melee it safely at first. Use [Harcadium Arrows](../items/harcadium_arrow.md) to chip away at it.
@@ -70,8 +76,3 @@ Unlike Witherzilla, the Omegafish can be subdued.
 ### Notable Drops
 * **All things Silverfish Related:** Stone, Silverfish Blocks, and Books.
 * **Harcadium Nuggets:** Rare chance to drop materials for mid-tier gear.
-
----
-
-!!! danger "Equipment Check"
-    Do **not** fight this Titan in Diamond Armor. Even as the "weakest" Titan, its Body Slam (500 damage) will ignore most vanilla protections. You MUST use Harcadium as it is the minimum requirement of fighting all Titans
