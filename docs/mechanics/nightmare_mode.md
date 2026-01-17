@@ -25,8 +25,8 @@ When Nightmare Mode is active, all hostile Titans receive massive stat increases
 
 ### Witherzilla Special Buffs
 Witherzilla receives unique, world-ending enhancements in this mode:
-* **Fiery Explosions:** All explosive attacks now ignite the surrounding area.
-* **Increased Blast Radius:** Explosions are significantly larger, capable of wiping out massive structures in a single strike.
+- **Fiery Explosions:** All explosive attacks now ignite the surrounding area.
+- **Increased Blast Radius:** Explosions are significantly larger, capable of wiping out massive structures in a single strike.
 
 ---
 
