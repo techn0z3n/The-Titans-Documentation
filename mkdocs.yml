@@ -36,6 +36,8 @@ nav:
       - Omegafish: titans/omegafish.md
       - Zombie Titan: titans/zombie_titan.md
       - Witherzilla: titans/witherzilla.md
+  - Mechanics:
+      - Titan Spirits: mechanics/titan_spirits.md
   - Dimensions:
       - Overview: dimensions/index.md
       - The Nowhere: dimensions/nowhere.md
