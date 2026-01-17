@@ -45,3 +45,8 @@ extra:
       link: https://discord.gg/yourlink
     - icon: fontawesome/brands/youtube
       link: https://youtube.com/biggestcrispy
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
