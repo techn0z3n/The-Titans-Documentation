@@ -44,3 +44,95 @@ When the complete set is worn, the player gains the following:
     Harcadium armor is the **minimum requirement** to survive hits from Lesser and Average Titans. Against Greater Titans or Gods, even this armor may fail.
 
 ---
+
+
+# Absence Equipment (Void Tier)
+
+The **Absence Set** is the pinnacle of physical protection before reaching Admin-level gear. It is the minimum requirement for engaging any Titan classified as a **God**. Wearing this set exchanges your humanity for the raw, unbridled power of the Void.
+
+---
+
+## ⚔️ Absence Tools
+These tools don't just "pierce" armor; they delete health bars. Each tool is a world-class implement of destruction.
+
+| Tool | Damage | Unique Abilities |
+| :--- | :--- | :--- |
+| **Absence Sword** | 1,500 | The standard weapon for slaying God-tier Titans. |
+| **Absence Axe** | 1,499 | Absolute Wood Destruction; harvests forests in seconds. |
+| **Absence Pickaxe** | 1,498 | Instantly deletes Stone; mines Obsidian in < 1 second. |
+| **Absence Shovel** | 1,497 | Tier-leading excavation power. |
+
+### 💎 The Soul-Stealer (Absence Hoe)
+The Absence Hoe is arguably the most useful tool in the set due to its unique life-drain mechanic:
+* **Damage:** 1,500
+* **Soul Siphon:** Striking small non-titan/non-player entities steals their soul.
+* **Buffs:** Heals the user and adds **extra health** and **attack strength** to your base stats.
+* **Tilling:** Inherits the Harcadium ability to till Gravel, Mycelium, and Dry Sponge.
+
+---
+
+## 🛡️ Absence Armor
+Crafted from **Void Essence**, this armor grants the wearer stats that mirror those of the Titans themselves.
+
+### Individual Piece Buffs
+* **Helmet:** Night Vision, Water Breathing.
+* **Chestplate:** Haste 100, Resistance IV, Strength 50, Fire Resistance.
+* **Leggings:** Regeneration 200 (Near-instant health recovery).
+* **Boots:** Jump Boost X, Speed XX.
+
+### 🌑 The Transcendence (Full Set Bonus)
+Wearing the complete Absence set transforms the player:
+* **Health Ascension:** Your health pool jumps from 10 hearts to a massive **210 hearts** ($420 \text{ HP}$).
+* **Absorption C:** Massive extra health that replenishes every 40 seconds.
+* **Saturation C:** Absolute immunity to hunger.
+* **Aura:** The quiet hum of Harcadium is replaced by a **deep, loud hum** of the Void.
+
+---
+
+!!! danger "God-Tier Requirement"
+    Do not attempt to fight a God-status Titan without this set. The 200+ hearts and Regeneration 200 are the only things standing between you and an instant "Ban" to the Nowhere.
+
+# Adminium Armor: The Armor of the Gods
+
+> "If who ever wear this armor, if they be worthy, shall possess the power of the gods!"
+
+Adminium is the absolute pinnacle of technology in *The Titans*. It is not crafted from mere stone, but from the fundamental bedrock of the universe itself. This is the only armor set in existence capable of withstanding **Witherzilla's** wrath.
+
+---
+
+## 🏗️ The Cost of Divinity
+Crafting this set is a monumental task. It does not use standard Bedrock, but **Compacted Bedrock**.
+
+* **Compacted Bedrock:** Requires 9x Bedrock blocks to craft a single unit.
+* **The "Price Tag":** Since you need full suits and tools, the total Bedrock requirement is non-tupilled. You have a lot of Titan slaying ahead of you to gather this much material.
+* **Durability:** Practically unbreakable.
+
+---
+
+## ⚡ God-Like Attributes
+Equipping the Adminium set transcends the limits of a player, granting abilities usually reserved for the Titans themselves.
+
+### Individual Piece Buffs
+* **Helmet:** Night Vision, Water Breathing.
+* **Chestplate:** Haste 100, Resistance IV, Strength 50, Fire Resistance.
+* **Leggings:** Regeneration 200.
+* **Boots:** Jump Boost XV, Speed XV.
+
+### 🌌 Full Set: Divine Presence
+When the full set is equipped, your very presence becomes a weapon:
+* **Massive Health:** Your health pool expands from 10 hearts to a staggering **410 hearts** ($820 \text{ HP}$).
+* **The Killing Aura:** Automatically kills every non-allied entity within a **16-block radius**.
+* **Titan Traversal:** Jumping causes a Titan-like **Earthquake**. If `mobGriefing` is enabled, you will literally drill a hole through the Earth.
+* **Regeneration:** Includes **Absorption 100** (replenishes every 40s), **Healing X**, and **Saturation 100**.
+* **The Hum:** Gives off a very noticeable, loud hum that signals your arrival.
+
+---
+
+## ⚒️ Adminium Tools
+Adminium tools represent the ultimate tier of utility and damage.
+* **Construction:** Crafted using regular **Bedrock** for the hilts and **Compacted Bedrock** for the main components.
+
+---
+
+!!! danger "Witherzilla Protocol"
+    Adminium Armor is the **absolute minimum requirement** to engage Witherzilla. Any other armor—including the Absence set—will be shredded by the God of Titans in seconds.
