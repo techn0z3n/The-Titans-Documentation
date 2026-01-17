@@ -32,13 +32,14 @@ theme:
 nav:
   - Home: index.md
   - The Titans:
+      - Overview: titans/index.md
       - Omegafish: titans/omegafish.md
       - Zombie Titan: titans/zombie_titan.md
       - Witherzilla: titans/witherzilla.md
   - Dimensions:
+      - Overview: dimensions/index.md
       - The Nowhere: dimensions/nowhere.md
       - Void Island: dimensions/void_island.md
-
 extra:
   social:
     - icon: fontawesome/brands/discord
