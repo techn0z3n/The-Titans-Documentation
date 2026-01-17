@@ -1,5 +1,9 @@
 # Nightmare Mode
-
+<p align="center">
+  <img src="../assets/nightmare_mode" width="400">
+  <br>
+  <em>"Sudden death."</em>
+</p>
 !!! danger "Extreme Difficulty"
     As the name implies, **Nightmare Mode** makes life in Minecraft significantly harder. This mode is designed only for players who have mastered the base mechanics of The Titans mod.
 
