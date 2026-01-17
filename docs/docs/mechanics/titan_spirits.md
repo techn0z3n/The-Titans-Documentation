@@ -1,7 +1,7 @@
 # Titan Spirits
 
 <p align="center">
-  <img src="../assets/titan_spirit.png" width="400">
+  <img src="/assets/titan_spirit.png" width="400">
   <br>
   <em>"A Titan never truly dies; it only waits."</em>
 </p>
