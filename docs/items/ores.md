@@ -151,48 +151,6 @@ The following ores generate in the world but currently serve no functional purpo
 !!! info "Collector's Note"
     While these "don't have any use yet," it is often wise to hoard them in chests in case of future updates or cross-mod integration.
 
-------
-
-## 🏗️ Steel (Alloy)
-
-Steel represents the transition into mid-to-late game power. It is an industrial-grade alloy that provides Diamond-tier protection and efficiency while being far more plentiful to produce.
-
-<p align="center">
-  <img src="assets/items/steel_ingot.png" width="150">
-</p>
-
-### ⚒️ Production Statistics
-| Property | Value |
-| :--- | :--- |
-| **Crafting Recipe** | 1x Chromium + 1x Magnesium + 1x Iron + 1x Coal |
-| **Plentitude** | More plentiful than Diamond |
-| **Tier Level** | Diamond Grade (Mid-to-Late Game) |
-
-### 🛠️ Usage
-* **Toughness:** Modeled after real-world structural steel used in buildings and cars, this material is incredibly durable.
-* **Diamond Alternative:** Steel can be used to craft tools and armor equivalent to Diamond grade in strength and mining level.
-* **The Trade-off:** While just as strong, Steel has slightly lower durability than Diamond:
-    * **Tools:** -400 Durability compared to Diamond.
-    * **Armor:** -80 Durability compared to Diamond.
-
-!!! success "The Architect's Choice"
-    Steel is good for a reason. It is the go-to material for players who want Diamond-level power without the rarity of hunting for actual Diamonds.
-
----
-
-## 🧊 Miscellaneous Elements (Unused)
-
-The following ores generate in the world but currently serve no functional purpose in version 0.495. They are primarily for collection or potential future compatibility.
-
-| Ore | Status |
-| :--- | :--- |
-| **Lead** | No current use |
-| **Silver** | No current use |
-| **Platinum** | No current use |
-
-!!! info "Collector's Note"
-    While these "don't have any use yet," it is often wise to hoard them in chests in case of future updates or cross-mod integration.
-
 ---
 
 ## 🌌 Harcadium (Element No. 753)
