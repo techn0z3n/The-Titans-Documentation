@@ -1,16 +1,47 @@
 site_name: The Titans Mod v0.495 Documentation
+
 theme:
   name: material
-  palette:
-    scheme: slate
-    primary: deep purple
+  logo: assets/logo.png
+  favicon: assets/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Roboto
+    code: Fira Code
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+  palette: 
+    - scheme: default
+      primary: deep purple
+      accent: red
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 nav:
   - Home: index.md
   - The Titans:
-    - Omegafish: titans/omegafish.md
-    - Zombie Titan: titans/zombie_titan.md
-    - Witherzilla: titans/witherzilla.md
+      - Omegafish: titans/omegafish.md
+      - Zombie Titan: titans/zombie_titan.md
+      - Witherzilla: titans/witherzilla.md
   - Dimensions:
-    - The Nowhere: dimensions/nowhere.md
-    - Void Island: dimensions/void_island.md
+      - The Nowhere: dimensions/nowhere.md
+      - Void Island: dimensions/void_island.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/yourlink
+    - icon: fontawesome/brands/youtube
+      link: https://youtube.com/biggestcrispy
