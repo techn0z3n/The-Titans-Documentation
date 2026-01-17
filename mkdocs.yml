@@ -39,6 +39,13 @@ nav:
   - Mechanics:
       - Titan Spirits: mechanics/titan_spirits.md
       - Nightmare Mode: mechanics/nightmare_mode.md
+  - Items/Blocks:
+      - Ores: items/ores.md
+      - Items: items/items.md
+      - Weapons: weapons/weapons.md
+  - Enchantments:
+      - Durability: enchantments/durability
+      - Titan Slaying: enchantments/titan_slaying
   - Dimensions:
       - Overview: dimensions/index.md
       - The Nowhere: dimensions/nowhere.md
