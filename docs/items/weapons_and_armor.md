@@ -136,3 +136,57 @@ Adminium tools represent the ultimate tier of utility and damage.
 
 !!! danger "Witherzilla Protocol"
     Adminium Armor is the **absolute minimum requirement** to engage Witherzilla. Any other armor—including the Absence set—will be shredded by the God of Titans in seconds.
+
+# 🗡️ The Ultima Blade
+
+> "The largest weapon to ever be wielded by a mortal, this puppy is sentient in its own right."
+
+The **Ultima Blade** is not just a tool; it is a sentient entity that judges its wielder. It is the only weapon capable of striking down the highest-tier Titans, though it comes with a personality of its own.
+
+<p align="center">
+  <img src="../../assets/items/ultima_blade.png" width="500">
+  <br>
+  <em>"If you are worthy, you shall be a God. If not, you are nothing."</em>
+</p>
+
+---
+
+## ⚡ Divine Statistics
+
+| Attribute | Value |
+| :--- | :--- |
+| **Attack Damage** | **100,000** |
+| **Durability** | **Infinite** (Indestructible) |
+| **Reach** | Significantly extended range |
+| **Special** | Ignores all forms of damage restrictions and armor |
+
+---
+
+## 🧠 Sentience & Mechanics
+
+The Blade is "smart" and actively protects its wielder—provided they are worthy.
+
+* **Soul Bind:** Upon hitting your first entity with the Blade, the game rule `keepInventory` is automatically set to **true**. The Blade ensures you will never lose it.
+* **The Judgment:** The Blade judges its user. If you are found unworthy, it may refuse to function or even judge you for your actions in Creative Mode.
+* **The "Kill" Logic:** While it deals 100,000 damage, some Titans have specific stun requirements or "Spirit" mechanics that prevent a one-shot kill. **Read the Titan profiles carefully**.
+
+---
+
+## 🔍 Right-Click Abilities
+The Blade acts as a sensory organ for the player, allowing you to detect hidden objects in the world:
+
+* **Ore Detection (Right-Click):** Scans the nearby area for valuable ores and announces their location.
+* **Mob Tracking (Shift + Right-Click):** Detects nearby hidden monsters and entities.
+
+---
+
+## ❓ How to Obtain
+The Ultima Blade **cannot be crafted**. 
+
+!!! quote "The Creator's Secret"
+    "I'll leave it up to you guys to figure out how you get this in survival. That's something for you to figure out. Until then, have plenty of fun with it in creative (if you're worthy for even that)."
+
+---
+
+!!! danger "Worthiness Check"
+    In version 0.495, a new system was added that checks the player's "Worthiness." If you attempt to use the blade and fail the check, it will not perform its God-slaying duties.
