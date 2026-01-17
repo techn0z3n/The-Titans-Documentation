@@ -18,7 +18,7 @@
 
 | Attribute | Value |
 | :--- | :--- |
-| **Health** | 8,000 ($4,000 \hearts$) |
+| **Health** | 8,000 (4,000 ❤️) |
 | **Armor Value** | High (Requires Harcadium-tier or better) |
 | **Speed** | Extremely High (Burrowing) |
 
