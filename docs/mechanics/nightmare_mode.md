@@ -1,6 +1,6 @@
 # Nightmare Mode
 <p align="center">
-  <img src="assets/nightmare_mode" width="400">
+  <img src="assets/nightmare_mode.png" width="400">
   <br>
   <em>"Sudden death."</em>
 </p>
