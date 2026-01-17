@@ -1,11 +1,11 @@
 # The Titans
-
+## Background
 * Titans are God-like entities that exist outside our reality, coming in only to have lots of fun. Some few Titans come in for conquest, but most are just messing around, or search for reasons to flatten stuff (ie: bats and squids). Most of them spawn naturally are usually resting and waiting, only awakening when a player disturbs them.
 
 * All Titans have the ability to spawn smaller versions of themselves, with some Titans even having Loyalists, Priests, Zealots and Templars. [Witherzilla](witherzilla.md) spawns his minions from his head (literally), as does the Snow and Iron Golem titans, the Ender Colossus makes his teleport in, the Blaze Titan forges his from his body, and the rest raise their minions from the ground, no matter what the material. Some have their own *special* minions, too.
 * Titans have multiple ways of spawning into the world. The most common way is natural spawning, which works like structure generation, and thus, this method is always reliable, but finite. The second method is a Templar turning into a Titan through contact with the ethereal plain with their supernatural powers. The third is if a Titan Spirit takes over a Templar, which any Titan Spirit will attempt. The final method is through growth serum, which is player managed.
 
-## Titans also have a last resort ability they all can use.
+**Titans also have a last resort ability they all can use.**
 * When and if they feel they've got the right opportunity, they will start a "Re-growth" process where the Titan will start to shrink until it's the size of its normal counterpart, at which point it begins to grow again.This resets the Titan's entire health pool, meaning you'll have to start from scratch. The trick to preventing this is to kill the Titan quickly!
 
 ## Things relating to all Titans:
