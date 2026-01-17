@@ -1,7 +1,7 @@
 # The Omegafish
 
 <p align="center">
-  <img src="../assets/omegafish.png" width="400">
+  <img src="../../assets/omegafish.png" width="400">
   <br>
   <em>"The Underdog of the Titans"</em>
 </p>
