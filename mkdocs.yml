@@ -42,7 +42,7 @@ nav:
   - Items/Blocks:
       - Ores: items/ores.md
       - Items: items/items.md
-      - Weapons/Armor: weapons/weapons_and_armor.md
+      - Weapons/Armor: items/weapons_and_armor.md
   - Enchantments:
       - Durability: enchantments/durability
       - Titan Slaying: enchantments/titan_slaying
