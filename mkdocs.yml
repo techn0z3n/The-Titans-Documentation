@@ -1,0 +1,16 @@
+site_name: The Titans Mod v0.495 Documentation
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: deep purple
+
+nav:
+  - Home: index.md
+  - The Titans:
+    - Omegafish: titans/omegafish.md
+    - Zombie Titan: titans/zombie_titan.md
+    - Witherzilla: titans/witherzilla.md
+  - Dimensions:
+    - The Nowhere: dimensions/nowhere.md
+    - Void Island: dimensions/void_island.md
