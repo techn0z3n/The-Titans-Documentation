@@ -7,9 +7,8 @@
 </p>
 
 !!! info "Titan Profile"
-    * **Classification:** Lesser Titan
+    * **Classification:** Lesser Titan [Lesser Titan](../ranks/lesser_titans.md)
     * **Status:** Active
-    * **Rank:** [Lesser Titan](../ranks/lesser_titans.md)
     * **Healing Factor:** Low (Compared to higher tiers)
 
 ---
